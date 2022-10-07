@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5f1687e1be2e99a158c08504"
+  },
+  "isAdmin": true,
+  "name": "Fadi Nouh",
+  "email": "fadinoh@gmail.com",
+  "passwordHash": "$2a$10$hru8p9Xs2sJXfldwn2hJje0xq2Zx4iKRhELH7u3Hnm8/PoMdB757C",
+  "phone": "420702241333",
+  "__v": 0,
+  "city": "Praha",
+  "country": "AL",
+  "street": "Sazovická",
+  "zip": "15521",
+  "apartment": "17"
+},{
+  "_id": {
+    "$oid": "5f168810be2e99a158c08505"
+  },
+  "isAdmin": true,
+  "name": "Tiago Pereira",
+  "email": "tiago@gmail.com",
+  "passwordHash": "$2a$10$0TZN47PNyhVml7I7B32xtuvbR04dmiAhRKBUUvNE4kQnFS5zCZNZK",
+  "phone": "7022417777",
+  "__v": 0,
+  "apartment": "",
+  "city": "",
+  "country": "DZ",
+  "street": "",
+  "zip": ""
+},{
+  "_id": {
+    "$oid": "5f67be25ef4061637c13a11a"
+  },
+  "isAdmin": false,
+  "name": "dimbon",
+  "email": "dimbo@gmail.com",
+  "passwordHash": "$2a$10$XnIJJcvzJsDSsg32eIjNju7wSUTNy/ds3LDKcOjVCJSWimcHS9I5y",
+  "phone": "(755) 554-5454",
+  "__v": 0,
+  "apartment": "",
+  "city": "",
+  "country": "CZ",
+  "street": "",
+  "zip": ""
+},{
+  "_id": {
+    "$oid": "5fa7a9a89683ad002411ce1d"
+  },
+  "isAdmin": false,
+  "name": "Dima",
+  "email": "dima@gmail.com",
+  "passwordHash": "$2a$10$BRwWlWfwDeHdc84G5gJKluuQRU9.gS8xoJgOnChkXOwh7zY7ICiRO",
+  "phone": "777444222",
+  "__v": 0,
+  "apartment": "",
+  "city": "",
+  "country": "AS",
+  "street": "",
+  "zip": ""
+},{
+  "_id": {
+    "$oid": "5fb3d05216a69e00246c02ee"
+  },
+  "isAdmin": true,
+  "name": "User",
+  "email": "user@eml.com",
+  "passwordHash": "$2a$10$MOJg2xzR.jLYDNWrHHX9DehZckNYSX0P/HID5cD.nAv2apemNdRCq",
+  "phone": "(545) 454-5445",
+  "__v": 0,
+  "apartment": "asdasd",
+  "city": "asdasd",
+  "country": "ES",
+  "street": "asdasd",
+  "zip": "asddas"
+},{
+  "_id": {
+    "$oid": "609d65943373711346c5e950"
+  },
+  "isAdmin": false,
+  "street": "",
+  "apartment": "",
+  "zip": "",
+  "city": "",
+  "country": "",
+  "name": "Guest",
+  "email": "guest@ngshop.com",
+  "passwordHash": "$2a$10$WR2FLY8bhH4y5sUNHg7GA.9oZ5xaEBdH54kPhwgeuFUQlX0faGBQm",
+  "phone": "(123) 456-7899",
+  "__v": 0
+}]

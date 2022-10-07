@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6072d4e83abd910cb7358aad"
+  },
+  "orderItems": [
+    {
+      "$oid": "6072d4e83abd910cb7358aab"
+    },
+    {
+      "$oid": "6072d4e83abd910cb7358aac"
+    }
+  ],
+  "status": "1",
+  "shippingAddress1": "Flowers Street",
+  "shippingAddress2": "13",
+  "city": "Prague",
+  "zip": "15541",
+  "country": "Czech Republic",
+  "phone": "688874451",
+  "totalPrice": 1240.9,
+  "user": {
+    "$oid": "5f1687e1be2e99a158c08504"
+  },
+  "dateOrdered": {
+    "$date": "2021-04-11T10:52:24.756Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d7eea3373711346c5e953"
+  },
+  "orderItems": [
+    {
+      "$oid": "609d7ee93373711346c5e951"
+    },
+    {
+      "$oid": "609d7ee93373711346c5e952"
+    }
+  ],
+  "status": "0",
+  "shippingAddress1": "Street 1",
+  "shippingAddress2": "Apartment1",
+  "city": "City",
+  "zip": "151222",
+  "country": "BR",
+  "phone": "(123) 456-7899",
+  "totalPrice": 4161,
+  "user": {
+    "$oid": "609d65943373711346c5e950"
+  },
+  "dateOrdered": {
+    "$date": "2021-05-13T19:32:58.030Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d874d3373711346c5e956"
+  },
+  "orderItems": [
+    {
+      "$oid": "609d874c3373711346c5e954"
+    },
+    {
+      "$oid": "609d874c3373711346c5e955"
+    }
+  ],
+  "status": "0",
+  "shippingAddress1": "street2",
+  "shippingAddress2": "aprtment2",
+  "city": "city",
+  "zip": "12222",
+  "country": "CX",
+  "phone": "(123) 456-7777",
+  "totalPrice": 4161,
+  "user": {
+    "$oid": "609d65943373711346c5e950"
+  },
+  "dateOrdered": {
+    "$date": "2021-05-13T20:08:45.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d898d3373711346c5e959"
+  },
+  "orderItems": [
+    {
+      "$oid": "609d898d3373711346c5e957"
+    },
+    {
+      "$oid": "609d898d3373711346c5e958"
+    }
+  ],
+  "status": "0",
+  "shippingAddress1": "Street 1",
+  "shippingAddress2": "Apartment 1",
+  "city": "City 1",
+  "zip": "155555",
+  "country": "AT",
+  "phone": "(123) 456-7888",
+  "totalPrice": 4161,
+  "user": {
+    "$oid": "609d65943373711346c5e950"
+  },
+  "dateOrdered": {
+    "$date": "2021-05-13T20:18:21.264Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609d8a0c3373711346c5e95c"
+  },
+  "orderItems": [
+    {
+      "$oid": "609d8a0c3373711346c5e95a"
+    },
+    {
+      "$oid": "609d8a0c3373711346c5e95b"
+    }
+  ],
+  "status": "0",
+  "shippingAddress1": "Street 1",
+  "shippingAddress2": "Apartment 1",
+  "city": "City",
+  "zip": "1111",
+  "country": "AT",
+  "phone": "(123) 456-7777",
+  "totalPrice": 1260,
+  "user": {
+    "$oid": "609d65943373711346c5e950"
+  },
+  "dateOrdered": {
+    "$date": "2021-05-13T20:20:28.582Z"
+  },
+  "__v": 0
+}]
