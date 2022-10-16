@@ -1,6 +1,6 @@
 
 const express       = require("express");
-const port          = 4000;
+const port          = process.env.PORT || 4000;
 const app           = express()
 const morgan        = require("morgan");
 const mongoose      = require("mongoose");
@@ -114,7 +114,18 @@ app.use(`${api}/orders`, orderRouter);
 //     console.log(err);
 // }) 
 
-mongoose.connect(process.env.CONNECTION_STRING).then(() => {
+// mongoose.connect(process.env.CONNECTION_STRING).then(() => {
+//     console.log("database connect successfully");
+// }).catch((err) => {
+//     console.log(err);
+// })
+ 
+mongoose.connect(process.env.CONNECTION_STRING, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    // dbName: 'ecom'
+    dbName: process.env.DB_NAME
+}).then(() => {
     console.log("database connect successfully");
 }).catch((err) => {
     console.log(err);
